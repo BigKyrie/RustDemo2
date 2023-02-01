@@ -1,0 +1,1 @@
+/Users/weiyuheng/WEI/2023Spring/721/RustDemo/Week2/RustDemo/RustDemo2/yew-app/target/wasm32-unknown-unknown/debug/yew-app.wasm: /Users/weiyuheng/WEI/2023Spring/721/RustDemo/Week2/RustDemo/RustDemo2/yew-app/src/main.rs
