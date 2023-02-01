@@ -1,4 +1,4 @@
 # RustDemo2
 '''
-sudo
+shell
 '''
